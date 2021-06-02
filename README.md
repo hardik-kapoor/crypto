@@ -1,7 +1,7 @@
 # Project on Cryptography
-Implementation of SHA-256, RSA algorithm in python, with GUI created using PyQt
-Used RSA algorithm to encrypt images and texts
-Used SHA-256 to generate TOTP (time- based one time passwords), and to generate hashes of strings
+* Implementation of SHA-256, RSA algorithm in python, with GUI created using PyQt
+* Used RSA algorithm to encrypt images and texts
+* Used SHA-256 to generate TOTP (time- based one time passwords), and to generate hashes of strings
 
 # How to Run
 * Clone the repository locally, and run main.py
